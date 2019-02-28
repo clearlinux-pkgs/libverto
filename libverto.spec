@@ -4,7 +4,7 @@
 #
 Name     : libverto
 Version  : 0.3.0
-Release  : 1
+Release  : 2
 URL      : https://github.com/latchset/libverto/releases/download/0.3.0/libverto-0.3.0.tar.gz
 Source0  : https://github.com/latchset/libverto/releases/download/0.3.0/libverto-0.3.0.tar.gz
 Summary  : Event loop abstraction interface
